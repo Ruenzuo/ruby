@@ -75,9 +75,6 @@ bin/
 # Valgrind
 valgrind-out.txt
 
-# glad
-glad/
-
 # hana
 include/libHana.h
 lib/libHana
