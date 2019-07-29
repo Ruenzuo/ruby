@@ -75,10 +75,6 @@ bin/
 # Valgrind
 valgrind-out.txt
 
-# hana
-include/libHana.h
-lib/libHana
-
 # CPU tests
 tests.exe
 
